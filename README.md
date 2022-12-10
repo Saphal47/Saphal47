@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saphal47](https://github.com/Saphal47)
 
-- 📫 How to reach me **saphalkumar13@gmail.com**
+- 📫 How to reach me **salkr30720@gmail.com**
 
 - ⚡ Fun fact **I love to do Drawing as my Hobby**
 
