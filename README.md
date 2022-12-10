@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **React App**
+- 🔭 I’m currently working on **ReactJS**
 
 - 🌱 I’m currently learning **ReactJS and Problem Solving in DSA**
 
