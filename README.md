@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saphal Kumar</h1>
 <h3 align="center">Passionate Learner enthusiastic about WebDev and DSA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sal" alt="sal" /></a> </p>
+
 
 - 🔭 I’m currently working on **React App**
 
