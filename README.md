@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saphal Kumar</h1>
+<h1 align="center">Hi 👋, I'm Saphal</h1>
 <h3 align="center">Passionate Learner enthusiastic about WebDev and DSA</h3>
 
 
@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saphal47](https://github.com/Saphal47)
 
-- 📫 How to reach me **salkr30720@gmail.com**
-
-- ⚡ Fun fact **I love to do Drawing as my Hobby**
+- 📫 How to reach me **saphalkumar13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
