@@ -89,17 +89,7 @@
     </a>
   </div>
 
-  <!-- Connect With Me Section -->
-  <div style="flex: 1; text-align: right;">
-    <h3 style="color: #24292e;">Connect with me:</h3>
-    <a href="https://linkedin.com/in/saphal kumar" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/saphal" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="40" width="40" />
-    </a>
-  </div>
-
+ 
 </div>
 
 
