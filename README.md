@@ -98,9 +98,6 @@
     <a href="https://stackoverflow.com/users/saphal" target="_blank" style="margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="40" width="40" />
     </a>
-    <a href="https://instagram.com/salkr13" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-    </a>
   </div>
 
 </div>
