@@ -1,96 +1,83 @@
-<h1 align="center" style="font-size: 3em; color: #0366d6;">Hi 👋, I'm Saphal</h1>
-<h3 align="center" style="color: #6a737d;">A PassionateProgrammer & Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-LangChain%20%26%20Python3-blue" alt="Focus">
-  <img src="https://img.shields.io/badge/Deep%20Dive-Software%20Design%20Architecture-green" alt="Deep Dive">
-</p>
+<h1>Hi 👋, I'm Saphal</h1>
 
-<p align="center">
-  <a href="https://github.com/Saphal47" style="font-size: 1.2em; color: #24292e; text-decoration: none;">
-    <strong>💻 Check out my Projects</strong>
-  </a>
-</p>
+<p>Fullstack AI Engineer &nbsp;·&nbsp; Passionate Programmer &nbsp;·&nbsp; Problem Solver</p>
 
-<p align="center" style="color: #586069;">
-  📫 Reach me at: <a href="mailto:saphalkumar13@gmail.com" style="color: #0366d6;">saphalkumar13@gmail.com</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Scalable+backends+%26+clean+architecture;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
+<br/>
 
+[![Focus](https://img.shields.io/badge/Focus-LangChain%20%26%20Python3-007ACC?style=flat-square)](https://github.com/Saphal47)
+[![Deep Dive](https://img.shields.io/badge/Deep%20Dive-Software%20Design%20%26%20Architecture-2ea44f?style=flat-square)](https://github.com/Saphal47)
 
-<hr style="border: none; border-top: 2px solid #0366d6; width: 80%; margin: auto;">
-<div>
-  <h3 align="center" style="color: #24292e;">Languages and Tools:</h3>
-<p align="center" style="margin: 10px 0;">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-</p>
+<br/>
+
+[💻 My Projects](https://github.com/Saphal47) &nbsp;&nbsp;·&nbsp;&nbsp; [📫 saphalkumar13@gmail.com](mailto:saphalkumar13@gmail.com)
+
 </div>
 
+---
 
-<hr style="border: none; border-top: 2px solid #0366d6; width: 80%; margin: auto; margin-top: 40px;">
-<!-- Flexbox container for Coding Profiles and Connect sections -->
-<div style="display: flex; justify-content: space-around; align-items: center; padding: 20px 0;">
+## 🧠 About Me
 
-  <!-- Coding Profiles Section -->
-  <div style="flex: 1; text-align: left;">
-    <h3 style="color: #24292e;">Coding Profiles:</h3>
-    <a href="https://www.leetcode.com/saphal47" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/salkr13" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/salkr13" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/salkr13" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
-    </a>
-    <a href="https://www.codechef.com/users/sal47" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="40" width="40" />
-    </a>
-  </div>
+> I build AI-powered applications with a focus on scalable backend systems,
+> clean architecture, and real-world problem solving.
 
- 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saphal47&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saphal47&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saphal47&theme=github-dark&hide_border=true" height="165" />
+</div>
 
+---
+
+## ⚙️ Languages & Tools
+
+**Core**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / ML**&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Frontend**&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**&nbsp;&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Database**&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Other**&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+---
+
+## 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/saphal47)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/salkr13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/salkr13)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/salkr13)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sal47)
+
+---
 
